@@ -1,0 +1,42 @@
+body{
+    padding: 5px;
+    background-color: #0099ff;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-style: none;
+    outline: none;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 2.5px;
+}
+
+h1{
+    text-align: left;
+}
+nav{
+    float: right;
+    text-align: center;
+
+    color: blue
+}
+
+#border-width{
+    border-style: solid;
+    border-color: transparent;
+}
+
+fieldset{
+    width: 35%;
+    background-color: white;
+    text-align: center;
+    border: transparent;
+    position: relative;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    border-radius: 2.5px;
+}
